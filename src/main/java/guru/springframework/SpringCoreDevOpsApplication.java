@@ -7,8 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringCoreDevOpsApplication {
 
 	public static void main(String[] args) {
-		//SpringApplication.run(SpringCoreDevOpsApplication.class, args);
-
+		SpringApplication.run(SpringCoreDevOpsApplication.class, args);
+garbage....
         //This is a whitespace test
         // here i am testing the webhook
 
